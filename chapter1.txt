@@ -1,1 +1,2 @@
 This is training session of Angela Yu course. 
+this is a good copy of the Angela Yu tutorial. 
